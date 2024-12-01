@@ -1,4 +1,4 @@
-# Hi There! 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=33A0B9&width=435&lines=Hi!%F0%9F%91%8B;I'm+Ayesha+Shakoor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ### I am a **Frontend Developer**  
 
@@ -24,7 +24,6 @@ I believe that connecting with others 🤝 and sharing our experiences can signi
 - **Email:** [ashii14245@gmail.com](mailto:ashii14245@gmail.com)  
 - **Age:** 17  
 - **Phone:** +3192957309  
-- **Job:** Frontend Developer  
 - **From:** Pakistan  
 
 ---
