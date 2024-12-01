@@ -1,34 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=33A0B9&width=435&lines=Hi!%F0%9F%91%8B;I'm+Ayesha+Shakoor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!%F0%9F%91%8B;I'm+Ayesha+Shakoor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### I am a **Frontend Developer**  
+ I am proficient in:
+- **HTML** 📝
+- **CSS** 🎨
+- **JavaScript (JS)** 🔥
+- **TypeScript (TS)** 💡
 
-My name is **Ayesha Shakoor**, and I am proficient in:  
-- **HTML**  
-- **CSS**  
-- **JavaScript (JS)**  
-- **TypeScript (TS)**  
+Currently, I am learning:
+- **Next.js** ⚡
+- **React** ⚛️
+- **Python** 🐍
+- **AI agents** 🤖
 
-Currently, I am learning:  
-- **Next.js**  
-- **React**  
-- **Python**  
-- **AI agents 🤖**  
-
-🌟 I am excited to gain knowledge in robotics 🤖 and explore various AI tools 🛠️.  
-I believe that connecting with others 🤝 and sharing our experiences can significantly enhance our understanding and skills in this rapidly evolving field.  
+🌟 I am excited to gain knowledge in **robotics** 🤖 and explore various **AI tools** 🛠️.  
+I believe that connecting with others 🤝 and sharing our experiences can significantly enhance our understanding and skills in this rapidly evolving field 🌱.
 
 ---
 
-### **About Me**  
+## **About Me** 💁‍♀️  
 - **Name:** Ayesha Shakoor  
 - **Email:** [ashii14245@gmail.com](mailto:ashii14245@gmail.com)  
-- **Age:** 17  
-- **Phone:** +3192957309  
-- **From:** Pakistan  
+- **Age:** 17 🎉  
+- **Phone:** +3192957309 📱  
+- **From:** Pakistan 🇵🇰  
 
 ---
 
-### **Languages & Tools I Use**  
+## **Languages & Tools I Use** 🛠️
+
 <p align="left">
   <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,11 +40,11 @@ I believe that connecting with others 🤝 and sharing our experiences can signi
 
 ---
 
-### **Let's Connect**  
-- 🌐 **GitHub:** [ashuu03449](https://github.com/ashuu03449)  
-- 📧 **Email:** [ashii14245@gmail.com](mailto:ashii14245@gmail.com)  
-- 💬 **Let's Collaborate:** 🤝  
+## **Let's Connect!** 🌐  
+- **GitHub:** [ashuu03449](https://github.com/ashuu03449)  
+- **Email:** [ashii14245@gmail.com](mailto:ashii14245@gmail.com)  
+- **Let's Collaborate:** 🤝
 
 ---
 
-🌟 "Learning never exhausts the mind – it only makes us grow stronger." 🌟  
+✨ **"Learning never exhausts the mind – it only makes us grow stronger."** ✨  
