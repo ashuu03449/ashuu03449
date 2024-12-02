@@ -17,11 +17,10 @@ I believe that connecting with others 🤝 and sharing our experiences can signi
 
 ---
 
-## **About Me** 💁‍♀️  
+##  💁‍♀️  
 - **Name:** Ayesha Shakoor  
 - **Email:** [ashii14245@gmail.com](mailto:ashii14245@gmail.com)  
 - **Age:** 17 🎉  
-- **Phone:** +3192957309 📱  
 - **From:** Pakistan 🇵🇰  
 
 ---
